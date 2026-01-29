@@ -1,0 +1,18 @@
+# Ignorer l'environnement virtuel
+venv/
+
+# Ignorer les résultats de calcul (les CSV)
+*.csv
+
+# Ignorer les exécutables compilés
+*.o
+*.out
+Partie1/seirs_c_euler
+Partie1/seirs_c_rk4
+Partie2/seirs_abm_c
+Partie2/seirs_abm_cpp
+
+# Ignorer les fichiers temporaires
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
